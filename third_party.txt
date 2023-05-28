@@ -1,5 +1,5 @@
 feapder
-qbittorrent-api/src
+qbittorrent-api
 anitopy
 plexapi
 transmission-rpc
